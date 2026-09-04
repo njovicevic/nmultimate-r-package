@@ -1,2 +1,4 @@
 # NMUltimate-R-Package
-Nik and Max's Ultimate R package for data analysis so that we can quickly set up our R environment on any University PC. 
+An R package for rapidly configuring a standard data analysis environment on university workstations and cloud servers.
+
+Written by Nikolas Jovicevic and Maximilian Roshko for internal use.
